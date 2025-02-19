@@ -4,7 +4,15 @@
 
 Hi there! I'm **Farida**, a professional musician with over **20 years** of experience in performance, teaching, arranging, and composition. I specialize in **piano, guitar, bass, vocals, and keyboards** 🎼.  
 
-Lately, I've been diving into **software engineering and web development**, focusing on **HTML, CSS, Swift, and iOS app development**. I love blending music and tech to create innovative projects.  
+Lately, I've been diving into software engineering and web development, focusing on HTML, CSS, Swift, and iOS app development. I completed a Swift and iOS App Development course on EDX.com in November 2024, and since then, I've been enrolled in a Software Engineering bootcamp with TripleTen. Through this bootcamp, I'm gaining skills in:
+
+- HTML & CSS (Advanced Techniques, Adaptive Design)
+- JavaScript (DOM Manipulation, Program Logic, OOP, Asynchronous JS)
+- React.js (Routing, State Management)
+- Back-End Development (Node.js, Express.js, Authentication, Authorization)
+- Testing & Deployment (Automated Testing, Cloud Deployment)
+
+I love blending music and tech to create innovative projects.  
 
 ---
 
