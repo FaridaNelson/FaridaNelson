@@ -46,7 +46,7 @@ I love blending music and tech to create innovative projects.
 
 ## 📫 **Let's Connect!**  
 - 🌍 [My Website](#) _(Coming Soon)_  
-- 💼 [LinkedIn](https://www.linkedin.com/in/farida-nelson-music/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/farida-nelson/)  
 - 🎶 [My teaching YouTube channel](https://www.youtube.com/@faridanelsonstudio) _(Music & Tutorials)_
 - 🎸 [My performing YouTube channel](https://www.youtube.com/@faridanelsonmusic) _(Performances & Song Covers)_
 - 🎹 [My Music Instagram page](https://www.instagram.com/faridanelson/) _(Music & Music Gear Reviews)_
