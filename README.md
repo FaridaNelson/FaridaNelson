@@ -1,57 +1,98 @@
-# 🎵 Farida Nelson  
+# 🎵 Farida Nelson
 
-### 🎸 Musician | 🎹 Educator | 💻 Software Developer  
+### 💻 Software Engineer | 🎶 Music Technologist | 🎹 Educator
 
-Hi there! I'm **Farida**, a professional musician with over **20 years** of experience in performance, teaching, arranging, and composition. I specialize in **piano, guitar, bass, vocals, and keyboards** 🎼.  
+Hi! I’m **Farida**, a Software Engineer with a strong foundation in **JavaScript, React, Node.js, and modern full-stack development**, and over **20 years of professional experience** as a musician and educator.
 
-Lately, I've been diving into software engineering and web development, focusing on HTML, CSS, Swift, and iOS app development. I completed a Swift and iOS App Development course on EDX.com in November 2024, and since then, I've been enrolled in a Software Engineering bootcamp with TripleTen. Through this bootcamp, I'm gaining skills in:
-
-- HTML & CSS (Advanced Techniques, Adaptive Design)
-- JavaScript (DOM Manipulation, Program Logic, OOP, Asynchronous JS)
-- React.js (Routing, State Management)
-- Back-End Development (Node.js, Express.js, Authentication, Authorization)
-- Testing & Deployment (Automated Testing, Cloud Deployment)
-
-I love blending music and tech to create innovative projects.  
+I specialize in building **user-focused, creative applications**, particularly in **music-tech, ed-tech, and interactive web platforms**. My background in performance and teaching strongly informs how I design intuitive, engaging software experiences.
 
 ---
 
-## 🔥 **What I Do**  
+## 🛠️ Tech Stack
 
-🎵 **Music & Teaching**  
-- Master's degree in **Piano Performance and Pedagogy**  
-- Teach **piano, guitar, and voice** (private & group lessons)  
-- Compose and arrange music 🎼  
+**Frontend**
+- JavaScript (ES6+), TypeScript
+- React, React Router
+- HTML5, CSS3, Responsive Design
+- Tailwind / BEM
+- Figma (UI/UX)
 
-💻 **Software & Web Development**  
-- Building web apps with **HTML, CSS, and JavaScript**  
-- Learning **Swift & iOS development**  
-- Designing UI/UX with **Figma**  
+**Backend**
+- Node.js, Express
+- REST APIs
+- Authentication & Authorization
+- MongoDB, MySQL
 
-🎤 **Live Performances & Collaborations**  
-- Over 20 years of stage performance experience
-- Actively performing in the greater San Francisco Bay Area
-- Session musician & music producer & music gear geek
+**DevOps & Tooling**
+- Git & GitHub
+- Docker
+- CI/CD (GitHub Actions)
+- Cloud Deployment (Google Cloud, Nginx, PM2)
 
----
-
-## 🚀 **Current Projects**  
-- 🎵 **Music & Tech Integration** – Exploring apps for musicians  
-- 🖥️ **Web Development** – Creating a landing page for my festival 
-- 📱 **iOS Development** – Learning Swift & UI/UX
-- 🌍 Azerbaijan Festival – [Visit the festival page](https://azerbaijanfestival.org)
-
+**Mobile**
+- Swift, iOS Fundamentals
 
 ---
 
-## 📫 **Let's Connect!**  
-- 🌍 [My Website](#) _(Coming Soon)_  
-- 💼 [LinkedIn](https://www.linkedin.com/in/farida-nelson/)  
-- 🎶 [My teaching YouTube channel](https://www.youtube.com/@faridanelsonstudio) _(Music & Tutorials)_
-- 🎸 [My performing YouTube channel](https://www.youtube.com/@faridanelsonmusic) _(Performances & Song Covers)_
-- 🎹 [My Music Instagram page](https://www.instagram.com/faridanelson/) _(Music & Music Gear Reviews)_
-- 📧 Email: **faridanelson@gmail.com**  
+## 🚀 Featured Projects
+
+### 🎶 StudioPulse (Music Practice Management Platform)
+**Full-stack MERN application**
+- Teacher / student roles with JWT authentication
+- Practice tracking, assignments, and attendance
+- REST API with secure authorization
+- Deployed on Google Cloud
+
+🔗 Repo Frontend: https://github.com/FaridaNelson/SP-react
+🔗 Repo Backend: https://github.com/FaridaNelson/SP-express
+🔗 Live Demo: https://www.studiopulse.co/
 
 ---
 
-### ✨ *"Code like a musician, compose like a developer!"* 🎶💻
+### 🌄 ColoRUSH (Adventure Route Planner)
+**React application with dynamic UI rendering**
+- Activity-based route generation
+- Google Maps integration
+- Optimized client-side logic
+
+🔗 Repo: *coming soon*
+
+---
+
+### 👗 What To Wear According to the Weather
+**Full-stack weather-based recommendation app**
+- API integrations
+- Authentication & protected routes
+- Production deployment with CI/CD
+
+🔗 Repo: *coming soon*
+
+---
+
+## 🎵 Music & Creative Background
+
+- Master’s Degree in **Piano Performance & Pedagogy**
+- Founder of **Farida Nelson Music LLC**
+- 20+ years of live performance & teaching
+- Active performer in the San Francisco Bay Area
+- Extensive experience with music hardware, DAWs, and signal processing
+
+---
+
+## 🌍 Current Focus
+- Building **production-ready full-stack applications**
+- Exploring **Music + AI** and **creative tooling**
+- Preparing for **Software Engineer roles** in music-tech & creative industries
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/farida-nelson/)
+- 🌍 [Azerbaijan Classical Music Festival](https://azerbaijanfestival.org)
+- 🎶 [Teaching YouTube](https://www.youtube.com/@faridanelsonstudio)
+- 🎸 [Performance YouTube](https://www.youtube.com/@faridanelsonmusic)
+- 📧 faridanelson@gmail.com
+
+---
+
+✨ *Building software with rhythm, structure, and soul.*
