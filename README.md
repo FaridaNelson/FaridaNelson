@@ -2,10 +2,7 @@
 
 ### Full-Stack Software Engineer building music & education platforms
 
-Hi! I’m Farida, a Full-Stack Software Engineer building production-ready web applications with JavaScript, React, Node.js, and cloud infrastructure.
-My current work focuses on developing StudioPulse, a music practice management platform for teachers and students, where I design the frontend architecture, backend APIs, and database systems.
-Before transitioning into software engineering, I spent over 20 years as a professional musician and educator, which strongly shapes how I design intuitive, user-centered software.
-I’m particularly interested in music technology, creative tools, AI-assisted workflows, and educational platforms.
+Hi! I'm Farida, a Full-Stack Software Engineer and founder-engineer building production SaaS applications with JavaScript, React, Node.js, and deployment infrastructure. My current work focuses on StudioPulse, a platform for music educators, students, and parents where I design frontend systems, backend APIs, data architecture, and production workflows. Before transitioning into software engineering, I spent over 20 years as a professional musician and educator, which strongly shapes how I build intuitive, user-centered products.
 
 ---
 
@@ -13,9 +10,9 @@ I’m particularly interested in music technology, creative tools, AI-assisted w
 
 **Frontend**
 - JavaScript (ES6+), TypeScript
-- React, React Router
+- React, Next.js, React Router
 - HTML5, CSS3, Responsive Design
-- Tailwind / BEM
+- Tailwind CSS, Responsive Design Systems, Component Architecture
 - Figma (UI/UX)
 
 **Backend**
@@ -30,9 +27,6 @@ I’m particularly interested in music technology, creative tools, AI-assisted w
 - CI/CD (GitHub Actions)
 - Cloud Deployment (Google Cloud, Nginx, PM2)
 
-**Mobile**
-- Swift, iOS Fundamentals
-
 **Systems & Architecture**
 
 - REST API design
@@ -46,16 +40,16 @@ I’m particularly interested in music technology, creative tools, AI-assisted w
 
 ## 🚀 Featured Projects
 
-### 🎶 StudioPulse (Music Practice Management Platform)
+### 🎶 StudioPulse (Production SaaS Platform)
 
-Production MERN platform designed for private music teachers and students.
+Features:
 
-**Features:**
-- Secure teacher / student authentication system
-- Practice tracking and assignment management
-- Exam preparation workflows (ABRSM)
-- Dynamic progress analytics for pieces, scales, and technique
-- REST API with role-based authorization
+- Role-based authentication and authorization
+- Lesson management and assignment workflows
+- Exam preparation cycles and progress analytics
+- Dynamic scoring and readiness tracking
+- Teacher / student / parent communication workflows
+- Production REST API architecture
 
 Tech:
 React • Node.js • Express • MongoDB • JWT • Google Cloud
@@ -108,9 +102,11 @@ React • Node.js • Express • MongoDB • JWT • Vercel Deployment
 
 ## 🌍 Current Learning Focus
 
-- AI engineering concepts (RAG, LLM workflows)
+- AI-assisted development workflows
+- Retrieval-Augmented Generation (RAG) concepts
+- Large Language Model application patterns
 - Cloud architecture and scalability
-- Cybersecurity fundamentals - CC certificate
+- ISC2 CC cybersecurity studies
 - System performance optimization
 - AWS
 
